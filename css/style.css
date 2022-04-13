@@ -61,6 +61,7 @@ a {
   height: 106px;
   background-color: white;
   position: fixed;
+  z-index: 10;
 }
 
 .header .site-title {
